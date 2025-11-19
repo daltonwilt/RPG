@@ -1,6 +1,6 @@
 RPG
 ------------------------------------
-Welcome To the SHIT SHOW!
+RPG Class/Profession Plugin
 
 TODO
 ------------------------------------
